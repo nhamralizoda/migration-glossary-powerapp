@@ -1,32 +1,176 @@
-Migration Terminology Glossary Tool
+# Migration Terminology Glossary Tool
 
-**Overview**
-A multilingual migration terminology platform developed for IOM Tajikistan using Microsoft Power Apps, SharePoint and Power Automate.
-The application provides standardized migration terms, abbreviations and definitions in English, Russian and Tajik, helping ensure consistent use of migration terminology across IOM, UN agencies, governments and migration stakeholders.
+A multilingual migration terminology platform developed using Microsoft Power Apps, SharePoint, and Power Automate.
 
-**Key Features**
-**Multilingual Access**
-- English
-- Russian
-- Tajik
-**Intelligent Search**
-- Search definitions
-- Search abbreviations
-- Relevance-based ranking
-- Supports keyword combinations in any order
-**Knowledge Management**
-- Alphabetical catalog of terms
+The application provides standardized migration terminology, abbreviations, and definitions in English, Russian, and Tajik, supporting consistent terminology use across IOM, UN agencies, government institutions, researchers, and migration stakeholders.
+
+---
+
+## Overview
+
+Migration and development professionals frequently work with specialized terminology that may have multiple translations, abbreviations, or definitions. This application was developed to provide a centralized and user-friendly platform for accessing approved migration terminology across multiple languages.
+
+The tool serves as a digital reference library that supports knowledge management, terminology standardization, and multilingual communication.
+
+---
+
+## Key Features
+
+### Multilingual Terminology Access
+
+- English terminology
+- Russian terminology
+- Tajik terminology
+- Simultaneous display of translations
+
+### Intelligent Search
+
+- Search by term
+- Search by definition
+- Search by abbreviation
+- Relevance-based search ranking
+- Supports keyword combinations regardless of word order
+- Returns best matches rather than simple text matches
+
+### Knowledge Management
+
+- Automatic alphabetical sorting
+- Standardized term definitions
+- Last updated tracking
 - Detailed term view
-- Last updated information
 - Copy-to-clipboard functionality
 - Recent search history
-**User Engagement**
-- Term suggestion mechanism
-- Usage logging and analytics
-- Mobile-responsive interface
-- Random term discovery feature
-**Technology Stack**
-- Front End: Microsoft Power Apps
-- Data Layer: SharePoint Lists
-- Automation: Power Automate
-- Analytics: SharePoint usage logs
+
+### Mobile Experience
+
+- Dedicated mobile interface
+- Automatic device detection
+- Separate layouts for desktop and mobile users
+
+### Analytics and Improvement
+
+- Usage logging
+- Tracking of opened/viewed terms
+- User feedback and term suggestion mechanism
+
+### Experimental Features
+
+- Random term discovery ("Surprise Me") feature developed to support terminology learning and knowledge exploration
+
+---
+
+## Screenshots
+
+### Main Desktop Interface
+
+screenshots/desktop-home.png
+
+The desktop interface provides multilingual search and quick access to migration terminology.
+
+---
+
+### Intelligent Search Results
+
+screenshots/desktop-search.png
+
+Search results are ranked by relevance and support flexible keyword matching.
+
+---
+
+### Multilingual Term Display
+
+screenshots/desktop-details.png
+
+Definitions are displayed simultaneously in English, Russian, and Tajik.
+
+---
+
+### Mobile Interface
+
+screenshots/mobile-home.png
+
+A dedicated mobile experience is automatically loaded when the application is accessed from Android or iOS devices.
+
+---
+
+### Mobile Term View
+
+screenshots/mobile-details.png
+
+Optimized interface for multilingual terminology access on mobile devices.
+
+---
+
+## Technology Stack
+
+### Front-End
+
+- Microsoft Power Apps
+
+### Data Storage
+
+- SharePoint Lists
+
+### Automation
+
+- Power Automate
+
+### Analytics
+
+- SharePoint-based usage logging
+
+---
+
+## Solution Architecture
+
+```text
+Users
+   │
+   ▼
+Power Apps Interface
+   │
+   ▼
+SharePoint Glossary Database
+   │
+   ├── Migration Terms
+   ├── Definitions
+   ├── Abbreviations
+   └── Metadata
+   │
+   ▼
+Power Automate
+   │
+   ├── Usage Logging
+   ├── Analytics
+   └── Automation
+```
+
+---
+
+## Highlights
+
+- Developed a multilingual knowledge management solution supporting three languages.
+- Designed a relevance-based search experience beyond standard Power Apps filtering.
+- Implemented flexible search logic that supports keywords in any order.
+- Created responsive desktop and mobile user interfaces.
+- Integrated usage analytics and interaction logging.
+- Developed a scalable SharePoint-backed terminology repository.
+
+---
+
+## Impact
+
+The application helps improve access to migration terminology and supports standardized communication across multilingual stakeholders working in migration, governance, development, and humanitarian contexts.
+
+---
+
+## Future Enhancements
+
+Potential future improvements include:
+
+- Additional language support
+- AI-powered semantic search
+- Suggested related terms
+- User favorites and bookmarks
+- Expanded analytics dashboard
+- Integration with organizational knowledge portals
