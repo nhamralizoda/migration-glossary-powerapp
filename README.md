@@ -1,4 +1,5 @@
 Migration Terminology Glossary Tool
+
 **Overview**
 A multilingual migration terminology platform developed for IOM Tajikistan using Microsoft Power Apps, SharePoint and Power Automate.
 The application provides standardized migration terms, abbreviations and definitions in English, Russian and Tajik, helping ensure consistent use of migration terminology across IOM, UN agencies, governments and migration stakeholders.
