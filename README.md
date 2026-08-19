@@ -63,7 +63,7 @@ The tool serves as a digital reference library that supports knowledge managemen
 
 ### Main Desktop Interface
 
-main/screenshots/desktop-home.png
+screenshots/desktop-home.png
 
 The desktop interface provides multilingual search and quick access to migration terminology.
 
