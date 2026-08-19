@@ -71,17 +71,19 @@ The desktop interface provides multilingual search and quick access to migration
 
 ### Intelligent Search Results
 
-screenshots/desktop-search.png
+screenshots/desktop-details.png
 
 Search results are ranked by relevance and support flexible keyword matching.
 
+Definitions are displayed simultaneously in English, Russian, and Tajik.
+
 ---
 
-### Multilingual Term Display
+### Surprise Me!
 
-screenshots/desktop-details.png
+screenshots/desktop-search.png
 
-Definitions are displayed simultaneously in English, Russian, and Tajik.
+Knowledge-discovery feature designed to promote terminology learning and exploration.
 
 ---
 
