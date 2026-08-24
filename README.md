@@ -63,7 +63,7 @@ The tool serves as a digital reference library that supports knowledge managemen
 
 ### Main Desktop Interface
 
-screenshots/desktop-home.png
+![alt text](screenshots/desktop-home.png)
 
 The desktop interface provides multilingual search and quick access to migration terminology.
 
@@ -71,7 +71,7 @@ The desktop interface provides multilingual search and quick access to migration
 
 ### Intelligent Search Results
 
-screenshots/desktop-details.png
+![alt text](screenshots/desktop-details.png)
 
 Search results are ranked by relevance and support flexible keyword matching.
 
@@ -81,7 +81,7 @@ Definitions are displayed simultaneously in English, Russian, and Tajik.
 
 ### Surprise Me!
 
-screenshots/desktop-search.png
+![alt text](screenshots/desktop-search.png)
 
 Knowledge-discovery feature designed to promote terminology learning and exploration.
 
@@ -89,7 +89,7 @@ Knowledge-discovery feature designed to promote terminology learning and explora
 
 ### Mobile Interface
 
-screenshots/mobile-home.png
+![alt text](screenshots/mobile-home.png)
 
 A dedicated mobile experience is automatically loaded when the application is accessed from Android or iOS devices.
 
@@ -97,7 +97,7 @@ A dedicated mobile experience is automatically loaded when the application is ac
 
 ### Mobile Term View
 
-screenshots/mobile-details.png
+![alt text](screenshots/mobile-details.png)
 
 Optimized interface for multilingual terminology access on mobile devices.
 
